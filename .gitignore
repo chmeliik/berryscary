@@ -12,3 +12,5 @@
 
 # Built TypeScript files
 dist/*
+
+node_modules
