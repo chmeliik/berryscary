@@ -1,6 +1,6 @@
 {
   "name": "berryscary",
-  "packageManager": "yarn@3.6.1",
+  "packageManager": "yarn@4.0.0-rc.49",
   "bin": "dist/app.js",
   "scripts": {
     "build": "tsc"
